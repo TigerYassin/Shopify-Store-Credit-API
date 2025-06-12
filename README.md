@@ -1,4 +1,4 @@
-# Shopify Store Credit API (FREE for Shopify) 
+# Shopify Store Credit API 2025 (FREE for Shopify) 
 
 Shopify API for Store Credit: [pabloo.com](https://pabloo.com)
 
